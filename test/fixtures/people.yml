@@ -9,7 +9,6 @@ one:
   phone: MyString
   photo: MyText
   status: false
-  address: 
 
 two:
   full_name: MyString
@@ -20,4 +19,3 @@ two:
   phone: MyString
   photo: MyText
   status: false
-  address: 

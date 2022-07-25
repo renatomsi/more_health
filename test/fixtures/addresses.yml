@@ -8,6 +8,7 @@ one:
   city: MyString
   uf: MyString
   cod_ibge: MyString
+  person: one
 
 two:
   cep: MyString
@@ -17,3 +18,4 @@ two:
   city: MyString
   uf: MyString
   cod_ibge: MyString
+  person: two

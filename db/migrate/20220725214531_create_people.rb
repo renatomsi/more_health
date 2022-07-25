@@ -9,7 +9,6 @@ class CreatePeople < ActiveRecord::Migration[6.1]
       t.string :phone
       t.text :photo
       t.boolean :status
-      t.refereces :address
 
       t.timestamps
     end
